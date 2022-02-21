@@ -1,0 +1,33 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span{
+    background-color: white;
+}
+.n{
+    color: black;
+}
+nav{
+    background-color: black;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    border: 100px;
+    justify-content: center;
+}
+
+li{
+    padding: 15px;
+    margin: auto;
+}
+
+li:hover{
+    background-color: orangered;
+}
+.tx{
+    color: white;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+h1{
+    color:orangered;
+}
+
+h2{
+    color: rgb(255, 115, 0);
+}
+
+h3{
+    color: rgb(255, 115, 0);
+}
+
+p{
+    color: rgb(226, 226, 226);
+
+}
+
+section{
+    color: rgb(226, 226, 226);
+    display: inline-block;
+    background-color: black;
+}
+
+b{
+    color: white;
+}
+
+.contact{
+    text-align: center;
+}
+
+
